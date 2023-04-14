@@ -2,4 +2,5 @@
 .env
 
 # Ignore everything in the output folder
-/output/
+/output/*
+!/output/.gitkeep
